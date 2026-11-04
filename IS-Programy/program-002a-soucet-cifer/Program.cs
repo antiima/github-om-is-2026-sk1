@@ -37,10 +37,77 @@ while(again.ToLower() == "a" )
     // Zde budeme pokračovat konkrétním algoritmem
     
     //Příprava pomocí proměnných
-    int numberBackup = number; //Záloha původního čísla
+    int NumberBackup = number; //Záloha původního čísla
     int sum = 0;    //Neutrální hodnota po sčítaní je 0
     int digit;      //Proměnná pro jednotlivé cifry
+
+
+    //Ošetření záporných čísel
+    if(number < 0)
+    {
+        number = -number;
+
+    }
+    //Zvláštní případ pro nulu
+    if (number == 0)
+    {
+        sum = 0;
+    }
+    else
+    {
+        Console.WriteLine();
+        Console.WriteLine("Průběh rozkladu čísla na čílice (zprava):");
+
+        //Matematický rozklad čísla pomocí cyklu
+        //Využíváme operaci modulo - určení zbytku po celočíselném dělení
+        while (number > 0)
+        {
+            digit = number %10; //Modulo 10 - získáme poslední číslici
+            sum = sum + digit; //Přičtení číslice k celkovému součtu
+
+            Console.WriteLine($"Získané číslice: {digit}");
+
+            number = number / 10; //Celočíselné dělení 10 odstraní poslední číslici
+
+           
+
+        }
+
+    }
+
+    //Výpis výsledku
+    Console.WriteLine();
+    Console.WriteLine("=============================");
+    Console.WriteLine($"=====Zadané číslo: {NumberBackup}=====");
+    Console.WriteLine("=============================");
+    Console.WriteLine("=============================");
+    Console.WriteLine($"====Součet cifer: {sum}====");
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     // Dotaz směrem k uživateli na opakování
     Console.WriteLine();

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cofer\\program-002a-soucet-cofer.csproj",
-      "projectName": "program-002a-soucet-cofer",
-      "projectPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cofer\\program-002a-soucet-cofer.csproj",
+      "projectUniqueName": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cifer\\program-002a-soucet-cifer.csproj",
+      "projectName": "program-002a-soucet-cifer",
+      "projectPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cifer\\program-002a-soucet-cifer.csproj",
       "packagesPath": "C:\\Users\\omaru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cofer\\obj\\",
+      "outputPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program-002a-soucet-cifer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omaru\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
