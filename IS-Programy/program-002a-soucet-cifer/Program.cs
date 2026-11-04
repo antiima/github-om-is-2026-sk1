@@ -10,36 +10,36 @@ while(again.ToLower() == "a" )
     
     // Hlavička programu
     Console.WriteLine("*************************************");
-    Console.WriteLine("************ Název programu *************");
+    Console.WriteLine("************ Součet cifer *************");
     Console.WriteLine("*************************************");
-    Console.WriteLine("*********** Tomáš Žižka *************");
+    Console.WriteLine("*********** Ondřej Marušák *************");
     Console.WriteLine("*************************************");
     Console.WriteLine();
     Console.WriteLine();
 
     // Načtení první hodnoty 
     Console.Write("Zadejte číslo (celé číslo): ");
-    int aaa;
-    while(!int.TryParse(Console.ReadLine(), out aaa)) {
+    int number;
+    while(!int.TryParse(Console.ReadLine(), out number)) {
         Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu: ");
     }
 
-    // Načtení druhé hodnoty řady
-    Console.Write("Zadejte další číslo (celé číslo): ");
-    int bbb;
-    while(!int.TryParse(Console.ReadLine(), out bbb)) {
-        Console.Write("Nezadali jste celé číslo. Zadejte druhé číslo znovu: ");
-    }
+
 
     // Rekapitulace zadaných hodnot
     Console.WriteLine();
     Console.WriteLine("=============================");
-    Console.WriteLine($"První číslo: {aaa}; Další číslo: {bbb};");
+    Console.WriteLine($"Zadané číslo: {number}");
     Console.WriteLine("=============================");
     Console.WriteLine();
     Console.WriteLine();
 
     // Zde budeme pokračovat konkrétním algoritmem
+    
+    //Příprava pomocí proměnných
+    int numberBackup = number; //Záloha původního čísla
+    int sum = 0;    //Neutrální hodnota po sčítaní je 0
+    int digit;      //Proměnná pro jednotlivé cifry
     
 
     // Dotaz směrem k uživateli na opakování
