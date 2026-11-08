@@ -1,0 +1,15 @@
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\bin\Debug\net10.0\program002b-soucet-cifer.exe
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\bin\Debug\net10.0\program002b-soucet-cifer.deps.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\bin\Debug\net10.0\program002b-soucet-cifer.runtimeconfig.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\bin\Debug\net10.0\program002b-soucet-cifer.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\bin\Debug\net10.0\program002b-soucet-cifer.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.AssemblyInfoInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.AssemblyInfo.cs
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.sourcelink.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\refint\program002b-soucet-cifer.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\program002b-soucet-cifer.genruntimeconfig.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program002b-soucet-cifer\obj\Debug\net10.0\ref\program002b-soucet-cifer.dll
