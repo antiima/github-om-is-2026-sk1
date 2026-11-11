@@ -1,0 +1,15 @@
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\bin\Debug\net10.0\program003a-obdelnik.exe
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\bin\Debug\net10.0\program003a-obdelnik.deps.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\bin\Debug\net10.0\program003a-obdelnik.runtimeconfig.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\bin\Debug\net10.0\program003a-obdelnik.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\bin\Debug\net10.0\program003a-obdelnik.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.AssemblyInfoInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.AssemblyInfo.cs
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.sourcelink.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\refint\program003a-obdelnik.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\program003a-obdelnik.genruntimeconfig.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003a-obdelnik\obj\Debug\net10.0\ref\program003a-obdelnik.dll

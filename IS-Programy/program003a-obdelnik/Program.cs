@@ -10,37 +10,66 @@ while(again.ToLower() == "a" )
     
     // Hlavička programu
     Console.WriteLine("*************************************");
-    Console.WriteLine("************ Název programu *************");
+    Console.WriteLine("****** Vykreslování obdelníků *******");
     Console.WriteLine("*************************************");
-    Console.WriteLine("*********** Tomáš Žižka *************");
+    Console.WriteLine("*********** Ondřej Marušák **********");
     Console.WriteLine("*************************************");
     Console.WriteLine();
     Console.WriteLine();
 
-    // Načtení první hodnoty 
-    Console.Write("Zadejte číslo (celé číslo): ");
-    int aaa;
-    while(!int.TryParse(Console.ReadLine(), out aaa)) {
-        Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu: ");
+    // Načtení šířky obrazce
+    Console.Write("Zadejte šířku obrazce (celé kladné číslo):");
+    int width;
+    while(!int.TryParse(Console.ReadLine(), out width) || width <= 0) {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.Write("Nezadali jste celé kladné číslo. Zadejte výšku znovu: ");
+        Console.ResetColor();
     }
 
-    // Načtení druhé hodnoty řady
-    Console.Write("Zadejte další číslo (celé číslo): ");
-    int bbb;
-    while(!int.TryParse(Console.ReadLine(), out bbb)) {
-        Console.Write("Nezadali jste celé číslo. Zadejte druhé číslo znovu: ");
+    // Načtení výšky obrazce
+    Console.Write("Zadejte výšku obrazce (celé kladné číslo):");
+    int height;
+    while(!int.TryParse(Console.ReadLine(), out height) || height <= 0) {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.Write("Nezadali jste celé kladné číslo. Zadejte výšku znovu: ");
+        Console.ResetColor();
     }
+
 
     // Rekapitulace zadaných hodnot
     Console.WriteLine();
     Console.WriteLine("=============================");
-    Console.WriteLine($"První číslo: {aaa}; Další číslo: {bbb};");
+    Console.WriteLine($"Šířka: {width}; Výška: {height};");
     Console.WriteLine("=============================");
     Console.WriteLine();
     Console.WriteLine();
 
     // Zde budeme pokračovat konkrétním algoritmem
-    
+    //Jádro vykreslovacího algoritmu
+    //Vnější cyklus, který nám bude hlídat počet řádků (shora dolů)
+    for(int i = 1; i <= height; i++) //Operátor i++ == i +1, i-- == i - 1
+{    
+    {
+        if (i % 2 == 0)
+        {Console.ForegroundColor = ConsoleColor.Cyan;}
+        else
+        {Console.ForegroundColor = ConsoleColor.Magenta;}
+
+    }
+        //vnitřní cyklus, který nám bude hlídat počet sloupců (zleva doprava)
+        for(int j = 1; j <= width; j++)
+        {
+            
+           
+            Console.Write("* ");
+            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
+          
+        }
+        Console.ResetColor();
+        Console.WriteLine();
+    } 
+
+
 
     // Dotaz směrem k uživateli na opakování
     Console.WriteLine();
