@@ -64,7 +64,7 @@ int width = height;
             
            
             {Console.Write("* ");
-            //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
+            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
             }
             else
             {Console.Write("  ");
