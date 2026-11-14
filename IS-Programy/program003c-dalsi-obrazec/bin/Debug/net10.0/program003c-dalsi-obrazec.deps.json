@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "program003c-dalsi-obrazec/1.0.0": {
+        "runtime": {
+          "program003c-dalsi-obrazec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program003c-dalsi-obrazec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

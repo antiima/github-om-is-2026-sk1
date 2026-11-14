@@ -1,0 +1,15 @@
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.AssemblyInfoInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.AssemblyInfo.cs
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.csproj.CoreCompileInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.sourcelink.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\bin\Debug\net10.0\program003c-dalsi-obrazec.exe
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\bin\Debug\net10.0\program003c-dalsi-obrazec.deps.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\bin\Debug\net10.0\program003c-dalsi-obrazec.runtimeconfig.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\bin\Debug\net10.0\program003c-dalsi-obrazec.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\bin\Debug\net10.0\program003c-dalsi-obrazec.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\refint\program003c-dalsi-obrazec.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\program003c-dalsi-obrazec.genruntimeconfig.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program003c-dalsi-obrazec\obj\Debug\net10.0\ref\program003c-dalsi-obrazec.dll
