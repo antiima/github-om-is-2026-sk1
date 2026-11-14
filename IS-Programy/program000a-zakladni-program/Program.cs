@@ -12,7 +12,7 @@ while(again.ToLower() == "a" )
     Console.WriteLine("*************************************");
     Console.WriteLine("************ Název programu *************");
     Console.WriteLine("*************************************");
-    Console.WriteLine("*********** Tomáš Žižka *************");
+    Console.WriteLine("*********** Ondřej Marušák **********");
     Console.WriteLine("*************************************");
     Console.WriteLine();
     Console.WriteLine();

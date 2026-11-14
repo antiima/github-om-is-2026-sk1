@@ -29,14 +29,13 @@ while(again.ToLower() == "a" )
     // Načtení výšky obrazce
     Console.Write("Zadejte výšku obrazce (celé kladné číslo):");
     int height;
-    int width;
-    width = 1;
+    
     while(!int.TryParse(Console.ReadLine(), out height) || height <= 0) {
         Console.ForegroundColor = ConsoleColor.Red;
         Console.Write("Nezadali jste celé kladné číslo. Zadejte výšku znovu: ");
         Console.ResetColor();
     }
-
+int width = height;
 
     // Rekapitulace zadaných hodnot
     Console.WriteLine();
@@ -59,14 +58,19 @@ while(again.ToLower() == "a" )
 
     }
         //vnitřní cyklus, který nám bude hlídat počet sloupců (zleva doprava)
-        for(int j = 1; j <= width; j++)
-        {
+        for(int j = 1; j <= width; j++ ) 
+        {if (j <= i)
+        
             
            
-            Console.Write("* ");
-            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
-          
+            {Console.Write("* ");
+            //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
+            }
+            else
+            {Console.Write("  ");
+            }        
         }
+        
         Console.ResetColor();
         Console.WriteLine();
 } 
