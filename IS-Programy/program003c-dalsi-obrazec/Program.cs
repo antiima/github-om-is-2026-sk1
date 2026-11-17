@@ -10,7 +10,7 @@ while(again.ToLower() == "a" )
     
     // Hlavička programu
     Console.WriteLine("*************************************");
-    Console.WriteLine("****** Vykreslování trojúhelníků *******");
+    Console.WriteLine("****** Vykreslování Z *******");
     Console.WriteLine("*************************************");
     Console.WriteLine("*********** Ondřej Marušák **********");
     Console.WriteLine("*************************************");
@@ -35,7 +35,13 @@ while(again.ToLower() == "a" )
         Console.Write("Nezadali jste celé kladné číslo. Zadejte výšku znovu: ");
         Console.ResetColor();
     }
-int width = height;
+
+
+
+
+
+    
+    int width = height;
 
     // Rekapitulace zadaných hodnot
     Console.WriteLine();
@@ -48,7 +54,15 @@ int width = height;
     // Zde budeme pokračovat konkrétním algoritmem
     //Jádro vykreslovacího algoritmu
     //Vnější cyklus, který nám bude hlídat počet řádků (shora dolů)
-    for(int i = 1; i <= height; i++) //Operátor i++ == i +1, i-- == i - 1
+    for(int k = 1; k <= width; k++ ) 
+    {
+        Console.Write("* ");
+    }
+    Console.WriteLine();
+
+
+
+    for(int i = 1; i <= height - 2; i++) //Operátor i++ == i +1, i-- == i - 1
 {    
     {
         if (i % 2 == 0)
@@ -59,22 +73,29 @@ int width = height;
     }
         //vnitřní cyklus, který nám bude hlídat počet sloupců (zleva doprava)
         for(int j = 1; j <= width; j++ ) 
-        {if (j <= i)
-        
-            
-           
+        {if (j == height - 1 - i)
             {Console.Write("* ");
             //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); // Efekt animace vykreslování
             }
-            else
+       
+        // if (j == 0)
+        //     {
+        //         Console.Write("  ");
+        //     }
+        else
             {Console.Write("  ");
             }        
         }
-        
-        Console.ResetColor();
-        Console.WriteLine();
+Console.WriteLine();
 } 
 
+
+for(int l = 1; l <= width; l++ ) 
+    {
+        Console.Write("* ");
+    }       
+        Console.ResetColor();
+        Console.WriteLine();
 
 
     // Dotaz směrem k uživateli na opakování
