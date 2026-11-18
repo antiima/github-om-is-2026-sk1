@@ -1,0 +1,15 @@
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\bin\Debug\net10.0\program004-generator.exe
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\bin\Debug\net10.0\program004-generator.deps.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\bin\Debug\net10.0\program004-generator.runtimeconfig.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\bin\Debug\net10.0\program004-generator.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\bin\Debug\net10.0\program004-generator.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.AssemblyInfoInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.AssemblyInfo.cs
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.csproj.CoreCompileInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.sourcelink.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\refint\program004-generator.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\program004-generator.genruntimeconfig.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program004-generator\obj\Debug\net10.0\ref\program004-generator.dll
