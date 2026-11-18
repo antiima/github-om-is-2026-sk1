@@ -63,7 +63,43 @@ for(int i = 0; i < myRandNumbs.Length; i++)
     {
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound + 1);   
         Console.Write($"{myRandNumbs[i]}; ");
+
+
+        
+    //Počet kladných, zápornch a nulových čísel
+
+    int positiveNumbs = 0;
+    int negativeNumbs = 0;
+    int zeroNumbs = 0;
+    if(myRandNumbs[i] > 0)
+    {
+        positiveNumbs++;
     }
+    else if(myRandNumbs[i] < 0)
+    {
+        negativeNumbs++;
+    }
+    else
+    {
+        zeroNumbs++;
+    }
+    
+
+    Console.WriteLine();
+    Console.WriteLine("********************");
+    Console.WriteLine($"***** Počet kladných čísel: {positiveNumbs} ******");
+    Console.WriteLine($"***** Počet záporných čísel: {negativeNumbs} ******");
+    Console.WriteLine($"***** Počet nulových čísel: {zeroNumbs} ******");
+    Console.WriteLine("********************");
+
+    }
+
+//DOMA SUDOST LICHOST
+
+
+
+
+
 
     // Dotaz směrem k uživateli na opakování
     Console.WriteLine();
