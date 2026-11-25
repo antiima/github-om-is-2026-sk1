@@ -1,0 +1,15 @@
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\bin\Debug\net10.0\program005a-max-min.exe
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\bin\Debug\net10.0\program005a-max-min.deps.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\bin\Debug\net10.0\program005a-max-min.runtimeconfig.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\bin\Debug\net10.0\program005a-max-min.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\bin\Debug\net10.0\program005a-max-min.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.AssemblyInfoInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.AssemblyInfo.cs
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.csproj.CoreCompileInputs.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.sourcelink.json
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\refint\program005a-max-min.dll
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.pdb
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\program005a-max-min.genruntimeconfig.cache
+C:\Users\omaru\.vscode\Projekty\github-om-is-2026-sk1\IS-Programy\program005a-max-min\obj\Debug\net10.0\ref\program005a-max-min.dll
