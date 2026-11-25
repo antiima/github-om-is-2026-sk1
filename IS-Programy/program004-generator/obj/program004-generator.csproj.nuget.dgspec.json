@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj": {}
+    "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj": {}
   },
   "projects": {
-    "C:\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj": {
+    "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj",
+        "projectUniqueName": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj",
         "projectName": "program004-generator",
-        "projectPath": "C:\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj",
+        "projectPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\program004-generator.csproj",
         "packagesPath": "C:\\Users\\omaru\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\obj\\",
+        "outputPath": "C:\\Users\\omaru\\.vscode\\Projekty\\github-om-is-2026-sk1\\IS-Programy\\program004-generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omaru\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

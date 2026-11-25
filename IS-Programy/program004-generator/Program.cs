@@ -61,8 +61,9 @@ Random myRandNumb = new Random();
 
 int positiveNumbs = 0;
 int negativeNumbs = 0;
-int zeroNumbs = 0;
-
+int zeroNumbs = 0; 
+int evenNumbs = 0;
+int  oddNumbs = 0;
 Console.WriteLine("Vygenerovaná pseudonáhodná čísla:");
 for(int i = 0; i < myRandNumbs.Length; i++)
     {
@@ -88,21 +89,29 @@ for(int i = 0; i < myRandNumbs.Length; i++)
     }
     
 
-   if(myRandNumbs[i] %2 == 0)
-        {
-        Console.WriteLine("Číslo je sudé");  
-        }
-        else
-        {
-            Console.WriteLine("Číslo je liché");
-        }
+//    if(myRandNumbs[i] %2 == 0)
+//         {
+//         Console.WriteLine("Číslo je sudé");  
+//         }
+//         else
+//         {
+//             Console.WriteLine("Číslo je liché");
+//         }
+
+    if(myRandNumbs[i] % 2 ==0)
+        evenNumbs++;
+    else
+            oddNumbs++;
+
     }
  Console.WriteLine();
-    Console.WriteLine("********************");
-    Console.WriteLine($"***** Počet kladných čísel: {positiveNumbs} ******");
+    Console.WriteLine("*************************************");
+    Console.WriteLine($"***** Počet kladných  čísel: {positiveNumbs} ******");
     Console.WriteLine($"***** Počet záporných čísel: {negativeNumbs} ******");
-    Console.WriteLine($"***** Počet nulových čísel: {zeroNumbs} ******");
-    Console.WriteLine("********************");
+    Console.WriteLine($"***** Počet nulových  čísel: {zeroNumbs} ******");
+    Console.WriteLine($"***** Počet sudých    čísel: {evenNumbs} ******");
+    Console.WriteLine($"***** Počet lichých   čísel: {oddNumbs} ******");
+    Console.WriteLine("*************************************");
 //DOMA SUDOST LICHOST
 
     // Dotaz směrem k uživateli na opakování
